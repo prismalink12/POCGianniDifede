@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Coins"
+        android:id="@+id/crypto_Coins"
+        android:icon="@drawable/ic_list" />
+    <item
+        android:title="Favorites"
+        android:id="@+id/favorites"
+        android:icon="@drawable/ic_favorites" />
+    <item
+        android:title="Charts"
+        android:id="@+id/charts"
+        android:icon="@drawable/ic_chart" />
+    <item
+        android:title="News"
+        android:id="@+id/news"
+        android:icon="@drawable/ic_news"/>
+    <item
+        android:title="Sign Out"
+        android:id="@+id/sign_Out"
+        android:icon="@drawable/ic_signout" />
+
+</menu>
